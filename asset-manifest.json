@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vegmeals/static/css/main.f1ed2667.css",
+    "main.js": "/vegmeals/static/js/main.e8977734.js",
+    "static/media/meals.jpg": "/vegmeals/static/media/meals.351b549c1dd21f576be6.jpg",
+    "index.html": "/vegmeals/index.html",
+    "main.f1ed2667.css.map": "/vegmeals/static/css/main.f1ed2667.css.map",
+    "main.e8977734.js.map": "/vegmeals/static/js/main.e8977734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ed2667.css",
+    "static/js/main.e8977734.js"
+  ]
+}
