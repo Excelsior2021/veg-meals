@@ -7,4 +7,4 @@ When you've selected your items and filled in the order form, that data is sent 
 
 This is a demo application for demostration purposes.
 
-excelsior2021.github.io/VegMeals/
+excelsior2021.github.io/VegMeals
