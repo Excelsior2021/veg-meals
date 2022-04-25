@@ -1,5 +1,5 @@
 # VegMeals
-A representation of a food ordering app developed with React.js.
+A representation of a food ordering app developed with React and Google's Firebase.
 
 The items available for order are fetched from a database.
 
