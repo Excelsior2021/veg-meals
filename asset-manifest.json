@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/veg-meals/static/css/main.392e4d0d.css",
-    "main.js": "/veg-meals/static/js/main.9c7fddfb.js",
+    "main.css": "/veg-meals/static/css/main.4cbb1c76.css",
+    "main.js": "/veg-meals/static/js/main.527d4ac8.js",
     "static/media/meals.jpg": "/veg-meals/static/media/meals.351b549c1dd21f576be6.jpg",
     "index.html": "/veg-meals/index.html",
-    "main.392e4d0d.css.map": "/veg-meals/static/css/main.392e4d0d.css.map",
-    "main.9c7fddfb.js.map": "/veg-meals/static/js/main.9c7fddfb.js.map"
+    "main.4cbb1c76.css.map": "/veg-meals/static/css/main.4cbb1c76.css.map",
+    "main.527d4ac8.js.map": "/veg-meals/static/js/main.527d4ac8.js.map"
   },
   "entrypoints": [
-    "static/css/main.392e4d0d.css",
-    "static/js/main.9c7fddfb.js"
+    "static/css/main.4cbb1c76.css",
+    "static/js/main.527d4ac8.js"
   ]
 }
